@@ -1,5 +1,3 @@
-// Task 4: Convert to Promises
-
 function getUser(id) {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
