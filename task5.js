@@ -1,5 +1,3 @@
-// Task 5: Async / Await Version
-
 function getUser(id) {
   return new Promise((resolve) => {
     setTimeout(() => {
