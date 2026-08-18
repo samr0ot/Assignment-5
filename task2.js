@@ -1,5 +1,3 @@
-// Task 2: Understanding Callbacks
-
 function getUser(id, callback) {
   setTimeout(() => {
     callback({ id: id, name: "Ram" });
